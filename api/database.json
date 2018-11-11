@@ -1,18 +1,55 @@
 {
   "entries": [
     {
-      "title": "hello2",
-      "content": "kjhlj",
-      "date": "2018-11-06",
-      "mood": "ok",
+      "title": "Test",
+      "content": "1",
+      "date": "2018-11-24",
+      "mood": "Happy",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "title": "Im a Mom",
+      "content": "bad ass",
+      "date": "2018-11-11",
+      "mood": "Happy",
+      "userId": 5,
+      "id": 7
+    },
+    {
+      "title": "Im a Daddy",
+      "content": "its badass!",
+      "date": "2018-11-11",
+      "mood": "Happy",
+      "userId": 1,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "username": "johnwood",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "username": "john",
+      "password": "1",
+      "id": 2
+    },
+    {
+      "username": "Island",
+      "password": "123",
       "id": 3
     },
     {
-      "title": "jej",
-      "content": "sf",
-      "date": "2018-11-13",
-      "mood": "fsa",
+      "username": "Jess",
+      "password": "1",
       "id": 4
+    },
+    {
+      "username": "Jess_Wood",
+      "password": "1",
+      "id": 5
     }
   ]
 }
